@@ -55,3 +55,13 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
 ## Mô tả lệnh.
 >**Lệnh `/start`**: <br> Chào mừng bạn đến với bot. Cung cấp thông tin về cách sử dụng bot. <br><br> **Lệnh `/fps {tên_fps}`**: <br> Thay đổi tên FPS trong file `.m` và bắt đầu quá trình build. Sử dụng cú pháp >`/fps {tên_fps}` với `{tên_fps}` là tên bạn muốn thay đổi.
 
+## Tham gia các nhóm và kênh của tôi
+
+Chúng tôi rất vui được kết nối với bạn trên các nền tảng mạng xã hội! Bạn có thể theo dõi chúng tôi qua các liên kết dưới đây:
+
+- **[Kênh Telegram](https://t.me/sharethapcam1110)** ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=for-the-badge&logo=telegram&logoColor=white)
+- **[Nhóm Chat](https://t.me/sharethapcam_1110)** ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=for-the-badge&logo=telegram&logoColor=white)
+- **[Kênh Telegram TestFlight](https://t.me/TestFlight1110)** ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=for-the-badge&logo=telegram&logoColor=white)
+- **[Discord](https://discord.gg/cEEDd4wGX4)** ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+- **[Website](https://ctdotech.tech)** ![Website](https://img.shields.io/badge/Website-%2300ADEF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+- **[Kênh YouTube](https://www.youtube.com/@ShareThapCam)** ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
