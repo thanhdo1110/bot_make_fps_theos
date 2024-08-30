@@ -48,9 +48,10 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
 
 ## Preview
 
+## Preview
+
 |                                            DEMO                                            |                                            Các Lệnh                                            |
 | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/thanhdo1110/bot_make_fps_theos/main/ctdotech_demo.jpg) | ![1]|
-
+| ![](https://raw.githubusercontent.com/thanhdo1110/bot_make_fps_theos/main/ctdotech_demo.jpg) | **Lệnh `/start`**: <br> Chào mừng bạn đến với bot. Cung cấp thông tin về cách sử dụng bot. <br><br> **Lệnh `/fps {tên_fps}`**: <br> Thay đổi tên FPS trong file `.m` và bắt đầu quá trình build. Sử dụng cú pháp `/fps {tên_fps}` với `{tên_fps}` là tên bạn muốn thay đổi. |
 
 
