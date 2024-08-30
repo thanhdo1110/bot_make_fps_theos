@@ -45,3 +45,12 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
    Ví dụ, nếu file mã nguồn của bạn là `main.py`, chạy:
    ```bash
    python3 main.py
+
+## Preview
+
+|                                            DEMO                                            |                                            Login success                                            |
+| :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![](https://rater.png) | ![](https://raw.githubss.png) |
+
+
+
