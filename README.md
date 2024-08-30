@@ -50,7 +50,7 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
 
 |                                            DEMO                                            |                                            Login success                                            |
 | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| ![](https://rater.png](https://github.com/thanhdo1110/bot_make_fps_theos/blob/ad992b43193592f087d81434067e82788d6f3279/ctdotech_demo.jpg) | ![](https://raw.githubss.png) |
+| ![](https://raw.githubusercontent.com/thanhdo1110/bot_make_fps_theos/main/ctdotech_demo.jpg) | ![](https://raw.githubss.png) |
 
 
 
