@@ -59,9 +59,14 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
 
 Chúng tôi rất vui được kết nối với bạn trên các nền tảng mạng xã hội! Bạn có thể theo dõi chúng tôi qua các liên kết dưới đây:
 
-- **[Kênh Telegram](https://t.me/sharethapcam1110)** ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=for-the-badge&logo=telegram&logoColor=white)
-- **[Nhóm Chat](https://t.me/sharethapcam_1110)** ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=for-the-badge&logo=telegram&logoColor=white)
-- **[Kênh Telegram TestFlight](https://t.me/TestFlight1110)** ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=for-the-badge&logo=telegram&logoColor=white)
-- **[Discord](https://discord.gg/cEEDd4wGX4)** ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-- **[Website](https://ctdotech.tech)** ![Website](https://img.shields.io/badge/Website-%2300ADEF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
-- **[Kênh YouTube](https://www.youtube.com/@ShareThapCam)** ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
+## Kết nối với chúng tôi
+
+Chúng tôi rất vui được kết nối với bạn trên các nền tảng mạng xã hội! Bạn có thể theo dõi chúng tôi qua các liên kết dưới đây:
+
+- [**Kênh Telegram**](https://t.me/sharethapcam1110) ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=flat-square&logo=telegram&logoColor=white)
+- [**Nhóm Chat**](https://t.me/sharethapcam_1110) ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=flat-square&logo=telegram&logoColor=white)
+- [**Kênh Telegram TestFlight**](https://t.me/TestFlight1110) ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=flat-square&logo=telegram&logoColor=white)
+- [**Discord**](https://discord.gg/cEEDd4wGX4) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
+- [**Website**](https://ctdotech.tech) ![Website](https://img.shields.io/badge/Website-%2300ADEF.svg?style=flat-square&logo=google-chrome&logoColor=white)
+- [**Kênh YouTube**](https://www.youtube.com/@ShareThapCam) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)
+
