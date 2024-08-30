@@ -57,12 +57,6 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
 
 ## Tham gia các nhóm và kênh của tôi
 
-Chúng tôi rất vui được kết nối với bạn trên các nền tảng mạng xã hội! Bạn có thể theo dõi chúng tôi qua các liên kết dưới đây:
-
-## Kết nối với chúng tôi
-
-Chúng tôi rất vui được kết nối với bạn trên các nền tảng mạng xã hội! Bạn có thể theo dõi chúng tôi qua các liên kết dưới đây:
-
 - [**Kênh Telegram**](https://t.me/sharethapcam1110) ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=flat-square&logo=telegram&logoColor=white)
 - [**Nhóm Chat**](https://t.me/sharethapcam_1110) ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=flat-square&logo=telegram&logoColor=white)
 - [**Kênh Telegram TestFlight**](https://t.me/TestFlight1110) ![Telegram](https://img.shields.io/badge/Telegram-%2300ADEF.svg?style=flat-square&logo=telegram&logoColor=white)
