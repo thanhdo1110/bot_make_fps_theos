@@ -16,7 +16,7 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
      pip install pyTelegramBotAPI
      ```
 
-3. **Theos**: Để bot hoạt động chính xác, bạn cần phải có Theos được cài đặt trên hệ thống của mình. Bạn có thể tham khảo hướng dẫn cài đặt Theos [tại đây](https://github.com/theos/theos).
+3. **Theos**: Để bot hoạt động chính xác, bạn cần phải có Theos được cài đặt trên hệ thống của mình. Bạn có thể tham khảo hướng dẫn cài đặt Theos [tại đây](https://theos.dev).
 
 4. **Công cụ xây dựng (build tools)**: Đảm bảo rằng bạn có công cụ xây dựng cần thiết như `make` và các công cụ khác để thực hiện build dự án Theos.
 
@@ -39,9 +39,9 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
    - Mở terminal hoặc command prompt và điều hướng đến thư mục chứa file mã nguồn của bot.
    - Chạy lệnh sau để khởi động bot:
      ```bash
-     python <tên_file_mãnguồn>.py
+     python3 <tên_file_mãnguồn>.py
      ```
 
-   Ví dụ, nếu file mã nguồn của bạn là `theos_build_bot.py`, chạy:
+   Ví dụ, nếu file mã nguồn của bạn là `main.py`, chạy:
    ```bash
-   python theos_build_bot.py
+   python3 main.py
