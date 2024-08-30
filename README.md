@@ -48,9 +48,9 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
 
 ## Preview
 
-|                                            DEMO                                            |                                            Login success                                            |
+|                                            DEMO                                            |                                            Các Lệnh                                            |
 | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/thanhdo1110/bot_make_fps_theos/main/ctdotech_demo.jpg) | ![](https://raw.githubss.png) |
+| ![](https://raw.githubusercontent.com/thanhdo1110/bot_make_fps_theos/main/ctdotech_demo.jpg) | ![1]|
 
 
 
