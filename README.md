@@ -39,7 +39,7 @@ Chào mừng bạn đến với **Theos Build Bot**! Bot này cho phép bạn t�
    - Mở terminal hoặc command prompt và điều hướng đến thư mục chứa file mã nguồn của bot.
    - Chạy lệnh sau để khởi động bot:
      ```bash
-     python3 <tên_file_mãnguồn>.py
+     python3 <tên_file_mã nguồn>.py
      ```
 
    Ví dụ, nếu file mã nguồn của bạn là `main.py`, chạy:
